@@ -1,0 +1,18 @@
+-
+canı 3 den düşünce haritada 1 adet can iconu cıkacak onu karakter yerse canı 1 adet artacak
+	-eğer hayaletler üstünden geçerse kaybolacak
+
+
+yeni haritalar eklecek (oyna başlandığında harita seçecek veya random versin)
+
+tema eklenecek renkler değişecek (yapılabilirse dinamik bir tema yapılacak ayarlardan)
+
+yapılabilirse (yeni karakterler eklenecek)
+
+oyuna ilk girildiğinde isim alıacak
+
+javada local storage araştırılacak 
+
+local storage yapılabilirse önceki tüm oyuncuların puanları gösterilecek
+
+oyunun windows ortamında setup exe'si oluşturulaca
